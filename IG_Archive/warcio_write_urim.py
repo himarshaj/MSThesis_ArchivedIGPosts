@@ -8,8 +8,9 @@ from hashlib import md5
 from datetime import datetime
 import traceback
 import requests
+import csv
 
-def create_warc(urim, raw_urim, output_directory):
+def create_warc(urim, raw_urim, output_directory, username):
 
     m = md5()
     m.update(urim.encode('utf8'))
@@ -60,7 +61,7 @@ def create_warc(urim, raw_urim, output_directory):
         mdt, "%a, %d %b %Y %H:%M:%S GMT"
     ).strftime('%Y-%m-%dT%H:%M:%SZ')
 
-    with open("{}/{}-{}.warc.gz".format(output_directory, urlhash, datetime.now().strftime('%Y%m%d%H%M%S')), 'wb') as output:
+    with open("{}/{}-{}-{}.warc.gz".format(output_directory, urlhash, datetime.now().strftime('%Y%m%d%H%M%S'),username), 'wb') as output:
         writer = WARCWriter(output, gzip=True)
 
        
@@ -77,28 +78,41 @@ if __name__ == "__main__":
     with open("urims.csv") as f:
         urims = f.readlines()
 
+
     urim_list = []
 
     for item in urims:
         urim = item.strip("\n")
         parts = urim.split("/web/")        
-        raw_urim = parts[0] + '/web/' + parts[1].split("/",1)[0] + 'mp_/' + parts[1].split("/",1)[1]
-        tuple = (urim,raw_urim)
+        urir = parts[1].split("/",1)[1]
+        raw_urim = parts[0] + '/web/' + parts[1].split("/",1)[0] + 'mp_/' + urir
+        with open("post_user_mapping.csv") as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if row[0] == urir:
+                    username = row[1]
+                else:
+                    pass
+        #print(username)
+        tuple = (urim,raw_urim,username)
         urim_list.append(tuple)
     #print(urim_list)
-
+    #to get username - temporory fix
+    #username = "sda"
     output_directory = "/home/marsh/Documents/Research/Thesis/MSThesis/IG_Archive/WARCs/response"
     count = 0
     for each in urim_list:
         urim = each[0]
         raw_urim = each[1]
+        username = each[2]
         try:
-            create_warc(urim, raw_urim, output_directory)
+            create_warc(urim, raw_urim, output_directory,username)
         except Exception as e:
             #print(e)
             print(urim)
         count = count + 1
-        #print(count)
+        print(count)
+        #break
     end = datetime.now()
     print("Start: " + str(start))
     print("End: " + str(end))
