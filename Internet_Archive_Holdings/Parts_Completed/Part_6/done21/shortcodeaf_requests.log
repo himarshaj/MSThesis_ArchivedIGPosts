@@ -1,0 +1,28 @@
+04/15/2022 09:28:53 AM Started
+04/15/2022 09:28:53 AM Shortcode list obtained
+04/15/2022 09:28:53 AM Starting new HTTPS connection (1): www.instagram.com:443
+04/15/2022 09:28:54 AM https://www.instagram.com:443 "GET /p/3wroQuhwtc/ HTTP/1.1" 200 34924
+04/15/2022 09:28:54 AM Request Issued
+04/15/2022 09:28:54 AM Blocked = False, Response recieved
+04/15/2022 09:33:55 AM Starting new HTTPS connection (1): www.instagram.com:443
+04/15/2022 09:33:56 AM https://www.instagram.com:443 "GET /p/3wWtDQnacD/ HTTP/1.1" 200 32088
+04/15/2022 09:33:56 AM Request Issued
+04/15/2022 09:33:56 AM Blocked = False, Response recieved
+04/15/2022 09:38:57 AM Starting new HTTPS connection (1): www.instagram.com:443
+04/15/2022 09:38:57 AM https://www.instagram.com:443 "GET /p/3xNbOCTCV9/ HTTP/1.1" 200 33508
+04/15/2022 09:38:58 AM Request Issued
+04/15/2022 09:38:58 AM Blocked = False, Response recieved
+04/15/2022 09:43:59 AM Starting new HTTPS connection (1): www.instagram.com:443
+04/15/2022 09:43:59 AM https://www.instagram.com:443 "GET /p/3yLTsIgMH6/ HTTP/1.1" 302 0
+04/15/2022 09:43:59 AM Request Issued
+04/15/2022 09:43:59 AM Blocked
+04/15/2022 09:43:59 AM Blocked = True, Entering the block period
+04/15/2022 10:13:59 AM Starting new HTTPS connection (1): www.instagram.com:443
+04/15/2022 10:14:01 AM https://www.instagram.com:443 "GET /p/3yLTsIgMH6/ HTTP/1.1" 404 94088
+04/15/2022 10:14:01 AM Request Issued
+04/15/2022 10:14:01 AM Block ID: 1, Block period: 1802 seconds
+04/15/2022 10:14:01 AM Blocked = False, Block period ended
+04/15/2022 10:19:02 AM Starting new HTTPS connection (1): www.instagram.com:443
+04/15/2022 10:19:03 AM https://www.instagram.com:443 "GET /p/3yzCZJAAl2/ HTTP/1.1" 404 94084
+04/15/2022 10:19:03 AM Request Issued
+04/15/2022 10:24:04 AM Starting new HTTPS connection (1): www.instagram.com:443

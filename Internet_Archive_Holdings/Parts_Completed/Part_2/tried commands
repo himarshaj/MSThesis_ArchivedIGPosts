@@ -1,0 +1,16 @@
+  985  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/{1111nkSpK8}
+  986  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/{1111nkSpK8} | head -10
+  987  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/{1111nkSpK8} | head -10
+  988  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/{1111nkSpK8} | head -10
+  989  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  990  curl -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  991  curl -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  992  curl -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  993  curl -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  994  curl -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  995  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/{1111nkSpK8} | head -30
+  996  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/1111nkSpK8 | head -30
+  997  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/Cae3l9FMj35 | head -30
+  998  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/Cae3l9FMj35/ | head -30
+  999  curl --socks5-hostname localhost:9150 -Ls https://www.instagram.com/p/CafyvK3vd4y/ | head -30
+ 1000  curl -Ls https://www.instagram.com/p/CafyvK3vd4y/ | head -30

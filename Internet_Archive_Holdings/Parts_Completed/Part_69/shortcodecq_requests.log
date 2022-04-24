@@ -1,0 +1,144 @@
+03/31/2022 09:56:35 AM Started
+03/31/2022 09:56:35 AM Shortcode list obtained
+03/31/2022 09:56:35 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:56:35 AM https://www.instagram.com:443 "GET /p/qYMtfWwQuB/ HTTP/1.1" 302 0
+03/31/2022 09:56:35 AM Request Issued
+03/31/2022 09:56:35 AM Blocked
+03/31/2022 09:56:35 AM Blocked = True, Entering the block period
+03/31/2022 09:57:30 AM Started
+03/31/2022 09:57:30 AM Shortcode list obtained
+03/31/2022 09:57:30 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:57:32 AM https://www.instagram.com:443 "GET /p/qYMtfWwQuB/ HTTP/1.1" 404 92491
+03/31/2022 09:57:32 AM Request Issued
+03/31/2022 09:57:43 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:57:44 AM https://www.instagram.com:443 "GET /p/qYx1LKRVhg/ HTTP/1.1" 200 32591
+03/31/2022 09:57:44 AM Request Issued
+03/31/2022 09:57:44 AM Blocked = False, Response recieved
+03/31/2022 09:57:54 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:57:55 AM https://www.instagram.com:443 "GET /p/qZftq9yWKI/ HTTP/1.1" 200 35445
+03/31/2022 09:57:55 AM Request Issued
+03/31/2022 09:57:55 AM Blocked = False, Response recieved
+03/31/2022 09:58:05 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:58:06 AM https://www.instagram.com:443 "GET /p/qZLPbRiZAH/ HTTP/1.1" 302 0
+03/31/2022 09:58:06 AM Request Issued
+03/31/2022 09:58:06 AM Blocked
+03/31/2022 09:58:06 AM Blocked = True, Entering the block period
+03/31/2022 09:58:29 AM Started
+03/31/2022 09:58:29 AM Shortcode list obtained
+03/31/2022 09:58:29 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:58:30 AM https://www.instagram.com:443 "GET /p/qZLPbRiZAH/ HTTP/1.1" 200 31081
+03/31/2022 09:58:30 AM Request Issued
+03/31/2022 09:58:30 AM Blocked = False, Response recieved
+03/31/2022 09:58:41 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:58:42 AM https://www.instagram.com:443 "GET /p/qzQKU1KzF5/ HTTP/1.1" 200 34590
+03/31/2022 09:58:42 AM Request Issued
+03/31/2022 09:58:42 AM Blocked = False, Response recieved
+03/31/2022 09:58:52 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:58:54 AM https://www.instagram.com:443 "GET /p/r041EaOxgI/ HTTP/1.1" 200 34842
+03/31/2022 09:58:54 AM Request Issued
+03/31/2022 09:58:54 AM Blocked = False, Response recieved
+03/31/2022 09:59:04 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:59:04 AM https://www.instagram.com:443 "GET /p/r0c6Wpi1kT/ HTTP/1.1" 302 0
+03/31/2022 09:59:04 AM Request Issued
+03/31/2022 09:59:04 AM Blocked
+03/31/2022 09:59:04 AM Blocked = True, Entering the block period
+03/31/2022 09:59:54 AM Started
+03/31/2022 09:59:54 AM Shortcode list obtained
+03/31/2022 09:59:54 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 09:59:56 AM https://www.instagram.com:443 "GET /p/r0c6Wpi1kT/ HTTP/1.1" 404 92530
+03/31/2022 10:00:00 AM Request Issued
+03/31/2022 10:00:10 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:00:15 AM https://www.instagram.com:443 "GET /p/R0FUfcwy42/ HTTP/1.1" 404 92413
+03/31/2022 10:00:16 AM Request Issued
+03/31/2022 10:00:27 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:00:28 AM https://www.instagram.com:443 "GET /p/r1zb8MP698/ HTTP/1.1" 200 35901
+03/31/2022 10:00:28 AM Request Issued
+03/31/2022 10:00:28 AM Blocked = False, Response recieved
+03/31/2022 10:00:39 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:00:39 AM https://www.instagram.com:443 "GET /p/r2p12hvFSH/ HTTP/1.1" 302 0
+03/31/2022 10:00:39 AM Request Issued
+03/31/2022 10:00:39 AM Blocked
+03/31/2022 10:00:39 AM Blocked = True, Entering the block period
+03/31/2022 10:01:50 AM Started
+03/31/2022 10:01:50 AM Shortcode list obtained
+03/31/2022 10:01:50 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:01:51 AM https://www.instagram.com:443 "GET /p/r2p12hvFSH/ HTTP/1.1" 404 92529
+03/31/2022 10:01:52 AM Request Issued
+03/31/2022 10:02:03 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:02:03 AM https://www.instagram.com:443 "GET /p/r2RrEmsT1D/ HTTP/1.1" 404 92416
+03/31/2022 10:02:04 AM Request Issued
+03/31/2022 10:02:15 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:02:16 AM https://www.instagram.com:443 "GET /p/r33EwcDx7I/ HTTP/1.1" 404 92413
+03/31/2022 10:02:19 AM Request Issued
+03/31/2022 10:02:29 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:02:30 AM https://www.instagram.com:443 "GET /p/R3qZ61Kp0y/ HTTP/1.1" 302 0
+03/31/2022 10:02:30 AM Request Issued
+03/31/2022 10:02:30 AM Blocked
+03/31/2022 10:02:30 AM Blocked = True, Entering the block period
+03/31/2022 10:02:49 AM Started
+03/31/2022 10:02:49 AM Shortcode list obtained
+03/31/2022 10:02:49 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:02:53 AM https://www.instagram.com:443 "GET /p/R3qZ61Kp0y/ HTTP/1.1" 200 30587
+03/31/2022 10:02:54 AM Request Issued
+03/31/2022 10:02:54 AM Blocked = False, Response recieved
+03/31/2022 10:03:05 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:03:06 AM https://www.instagram.com:443 "GET /p/r42C5Kqbkt/ HTTP/1.1" 200 34591
+03/31/2022 10:03:07 AM Request Issued
+03/31/2022 10:03:07 AM Blocked = False, Response recieved
+03/31/2022 10:03:18 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:03:19 AM https://www.instagram.com:443 "GET /p/r47kCuLS5w/ HTTP/1.1" 200 33871
+03/31/2022 10:03:19 AM Request Issued
+03/31/2022 10:03:19 AM Blocked = False, Response recieved
+03/31/2022 10:03:30 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:03:30 AM https://www.instagram.com:443 "GET /p/r4SPhhnB7w/ HTTP/1.1" 404 92493
+03/31/2022 10:03:31 AM Request Issued
+03/31/2022 10:03:41 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:03:42 AM https://www.instagram.com:443 "GET /p/r5112xAGS4/ HTTP/1.1" 302 0
+03/31/2022 10:03:42 AM Request Issued
+03/31/2022 10:03:42 AM Blocked
+03/31/2022 10:03:42 AM Blocked = True, Entering the block period
+03/31/2022 10:06:30 AM Started
+03/31/2022 10:06:30 AM Shortcode list obtained
+03/31/2022 10:06:30 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:06:32 AM https://www.instagram.com:443 "GET /p/r5112xAGS4/ HTTP/1.1" 404 92417
+03/31/2022 10:06:32 AM Request Issued
+03/31/2022 10:06:42 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:06:43 AM https://www.instagram.com:443 "GET /p/r5jljxxhvn/ HTTP/1.1" 404 92416
+03/31/2022 10:06:43 AM Request Issued
+03/31/2022 10:06:54 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:06:54 AM https://www.instagram.com:443 "GET /p/r5N5FDNq4E/ HTTP/1.1" 200 31663
+03/31/2022 10:06:54 AM Request Issued
+03/31/2022 10:06:54 AM Blocked = False, Response recieved
+03/31/2022 10:07:05 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:07:05 AM https://www.instagram.com:443 "GET /p/r6n0NQpFH1/ HTTP/1.1" 302 0
+03/31/2022 10:07:05 AM Request Issued
+03/31/2022 10:07:05 AM Blocked
+03/31/2022 10:07:05 AM Blocked = True, Entering the block period
+03/31/2022 10:07:21 AM Started
+03/31/2022 10:07:21 AM Shortcode list obtained
+03/31/2022 10:07:21 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:07:21 AM https://www.instagram.com:443 "GET /p/r6n0NQpFH1/ HTTP/1.1" 200 34411
+03/31/2022 10:07:21 AM Request Issued
+03/31/2022 10:07:21 AM Blocked = False, Response recieved
+03/31/2022 10:07:32 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:07:32 AM https://www.instagram.com:443 "GET /p/r6w10EhLhq/ HTTP/1.1" 404 92495
+03/31/2022 10:07:33 AM Request Issued
+03/31/2022 10:07:43 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:07:44 AM https://www.instagram.com:443 "GET /p/r7Kpe4ImZf/ HTTP/1.1" 404 92537
+03/31/2022 10:07:45 AM Request Issued
+03/31/2022 10:07:56 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:07:56 AM https://www.instagram.com:443 "GET /p/R7uqwJSiVN/ HTTP/1.1" 302 0
+03/31/2022 10:07:56 AM Request Issued
+03/31/2022 10:07:56 AM Blocked
+03/31/2022 10:07:56 AM Blocked = True, Entering the block period
+03/31/2022 10:08:08 AM Started
+03/31/2022 10:08:08 AM Shortcode list obtained
+03/31/2022 10:08:08 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:08:13 AM https://www.instagram.com:443 "GET /p/R7uqwJSiVN/ HTTP/1.1" 404 92411
+03/31/2022 10:08:14 AM Request Issued
+03/31/2022 10:08:25 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:08:25 AM https://www.instagram.com:443 "GET /p/r8EosBiPQz/ HTTP/1.1" 404 92495
+03/31/2022 10:08:26 AM Request Issued
+03/31/2022 10:08:37 AM Starting new HTTPS connection (1): www.instagram.com:443
+03/31/2022 10:08:37 AM https://www.instagram.com:443 "GET /p/r9xOZSRsve/ HTTP/1.1" 404 92489
+03/31/2022 10:08:39 AM Request Issued
